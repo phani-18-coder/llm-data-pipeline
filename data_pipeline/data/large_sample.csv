@@ -1,0 +1,51 @@
+Raw_Name,Contact_Email,User_Age,Subscription,Join_Date,Is_Active_Flag
+Alice Williams,alice.williams@email.io,22,enterprise,2023-04-28,1
+Bob Miller,bob.miller@email.io,37,free,2023-03-23,yes
+Frank Doe,frank.doe@example.com,19,free,2023-02-18,false
+John Johnson,john.johnson@email.io,21,free,2023-01-28,false
+John Brown,john.brown@test.org,49,free,2023-07-17,yes
+David Jones,david.jones@company.net,50,pro,2023-07-22,0
+Eva Williams,eva.williams@company.net,32,pro,2023-03-21,false
+Eva Williams,eva.williams@test.org,76,enterprise,2023-04-11,yes
+Jane Johnson,jane.johnson@email.io,69,pro,2023-12-06,yes
+Alice Smith,alice.smith@example.com,51,free,Jan 1st 2023,0
+Eva Williams,eva.williams@example.com,64,pro,Jan 1st 2023,yes
+Bob Williams,bob.williams@example.com,43,pro,2023-10-14,false
+David Smith,david.smith@email.io,24,enterprise,2023-04-12,true
+Alice Williams,alice.williams@test.org,45,enterprise,2023-03-04,false
+Eva Brown,eva.brown@company.net,42,pro,2023-05-23,yes
+Charlie Brown,charlie.brown@company.net,53,free,2023-07-17,yes
+Bob Doe,bob.doe@email.io,63,enterprise,2023-10-01,no
+Jane Doe,jane.doe@test.org,53,free,2023-03-01,1
+John Jones,john.jones@company.net,71,pro,2023-09-15,yes
+Charlie Johnson,charlie.johnson@email.io,18,enterprise,2023-04-12,false
+Alice Smith,alice.smith@example.com,31,enterprise,2023-02-27,false
+Eva Miller,eva.miller@company.net,67,pro,2023-06-19,0
+Alice Williams,alice.williams@email.io,53,enterprise,2023-11-07,true
+Jane Brown,jane.brown@test.org,35,enterprise,2023-09-04,true
+Bob Johnson,bob.johnson@example.com,53,pro,2023-09-10,yes
+Eva Johnson,eva.johnson@company.net,54,enterprise,2023-09-25,yes
+Eva Doe,eva.doe@company.net,47,free,2023-07-02,0
+Frank Brown,frank.brown@email.io,47,pro,2023-10-03,no
+David Johnson,david.johnson@email.io,44,pro,2023-01-04,no
+Charlie Brown,charlie.brown@email.io,49,enterprise,2023-11-26,yes
+Charlie Miller,charlie.miller@email.io,72,enterprise,2023-01-21,no
+"Miller, Jane",jane.miller@example.com,29,freemium,2023-03-08,false
+Alice Jones,alice.jones@company.net,25,free,2023-11-15,yes
+Charlie Miller,charlie.miller@email.io,79,pro,2023-05-27,no
+John Brown,john.brown@company.net,25,pro,2023-02-04,yes
+Eva Jones,,20,enterprise,2023-09-13,1
+Eva Smith,eva.smith@company.net,58,free,2023-08-05,1
+Jane Johnson,jane.johnson@example.com,69,enterprise,2023-09-04,1
+Jane Williams,jane.williams@test.org,19,pro,2023-06-14,true
+Charlie Jones,charlie.jones@test.org,57,free,2023-07-22,1
+Frank Smith,frank.smith@test.org,61,pro,2023-03-08,1
+Bob Brown,bob.brown@test.org,twenty,enterprise,2023-12-13,no
+John Doe,john.doe@example.com,21,free,2023-01-06,false
+Charlie Smith,charlie.smith@company.net,53,pro,2023-05-04,false
+Frank Doe,,66,enterprise,2023-10-21,true
+Eva Williams,eva.williams@company.net,60,free,2023-12-28,0
+Charlie Williams,charlie.williams@example.com,58,free,Jan 1st 2023,yes
+Alice Williams,alice.williams@example.com,53,free,2023-07-27,no
+Eva Williams,,18,pro,2023-12-08,true
+John Jones,john.jones@test.org,54,free,2023-02-07,true

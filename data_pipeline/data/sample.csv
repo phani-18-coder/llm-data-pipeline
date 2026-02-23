@@ -1,0 +1,8 @@
+raw_data
+"John Doe, john.doe@example.com, 34, pro, 2023/01/15, true"
+"Jane Smith | jane.smith@test | 29 | free | 2023-02-20 | yes"
+"Robert 'Bob' Brown, bob.brown@company.org, 120, enterprise, 12-12-2022, 1"
+"Alice Invalid, alice@, 17, basic, 2023-05-01, false"
+"Charlie Duplicate, charlie@dup.com, 40, free, 2023-06-01, true"
+"Charlie Duplicate, charlie@dup.com, 40, free, 2023-06-01, true"
+"Missing Info User, , 25, free, , true"
